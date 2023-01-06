@@ -5,7 +5,7 @@
   </p>
   
 
-I'm a web developer who is passionate about creating technology . Some technologies I enjoy working with include Javascript, php , MySql , Bootstrap , CSS and Html .
+I'm a web developer who is passionate about creating technology . Some technologies I enjoy working with include Javascript , Bootstrap , CSS and Html .
 
 - 🔭 I'm a software developer in Cairo, Egypt
 
