@@ -1,8 +1,6 @@
-- 🔭 I'm a software developer in Cairo, Egypt.  
-I'm a web developer who is passionate about creating technology . Some technologies I enjoy working with include Javascript , Bootstrap , CSS and Html .
-
 <h1 align="center">Hi 👋, I'm Mustafa Alqadi</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
+- 🔭 I'm a software developer in Cairo, Egypt. Some technologies I enjoy working with include Javascript , Bootstrap , CSS and Html .
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaalqadi97&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaalqadi97" /> </p>
 
