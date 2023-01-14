@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mustafa Alqadi</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-- 🔭 I'm a software developer in Cairo, Egypt. Some technologies I enjoy working with include Javascript , Bootstrap , CSS and Html .
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaalqadi97&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaalqadi97" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafaalqadi97" alt="mustafaalqadi97" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mustafaalqadi_0" target="blank"><img src="https://img.shields.io/twitter/follow/mustafaalqadi_0?logo=twitter&style=for-the-badge" alt="mustafaalqadi_0" /></a> </p>
+
+- 🌱 I’m currently learning **Javascript , React js**
+
+- 👨‍💻 All of my projects are available at [https://mustafaalqadi97.github.io/Personal-Portfolio/](https://mustafaalqadi97.github.io/Personal-Portfolio/)
+
+- 💬 Ask me about **HTML , CSS ,Javascript**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zIgBQ-P5Jee9we1miYdC70MiS6wvAaBS/view?usp=sharing](https://drive.google.com/file/d/1zIgBQ-P5Jee9we1miYdC70MiS6wvAaBS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,11 +27,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mustafaalqA"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mustafaalqA" /></a></p><br><br>
-<!--  -->
-<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaalqadi97&show_icons=true&locale=en&layout=compact" alt="mustafaalqadi97" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafaalqadi97&show_icons=true&locale=en" alt="mustafaalqadi97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaalqadi97&" alt="mustafaalqadi97" /></p>
-
