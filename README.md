@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafaalqadi97" alt="mustafaalqadi97" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mustafaalqadi_0" target="blank"><img src="https://img.shields.io/twitter/follow/mustafaalqadi_0?logo=twitter&style=for-the-badge" alt="mustafaalqadi_0" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript , React js**
 
